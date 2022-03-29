@@ -6,15 +6,16 @@ Proiect la Programare Avansata pe Obiecte, Anul 2, Sem 2
 (elev, activitate, profesor, clasa, orar)
 
 ## Actiuni / Interogari
- - Adaugare (creare) Elev
- - Adaugare Angajat
- - Adaugare Curs
- - Afisare Clase
- - Afisare Orar
- - Stergere Elev
- - Stergere Angajat
- - Stergere Curs
+ - Adauga (creare) Elev
+ - Adauga Angajat
+ - Adauga Curs
+ - Schimba Profesor
+ - Schimba Interval Orar
+ - Afiseaza Clase
+ - Afiseaza Orar
+ - Sterge Elev
+ - Sterge Angajat
+ - Sterge Curs
  
  
- 
- ![ERD](https://user-images.githubusercontent.com/79314110/160543481-2302513a-a9a5-4a8f-aab7-26add03648bb.png)
+ ![erdsimplu](https://user-images.githubusercontent.com/79314110/160545351-b1d54bf6-174d-48f1-b1dc-6a68b5298fc9.png)
