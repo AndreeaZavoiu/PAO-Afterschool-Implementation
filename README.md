@@ -2,7 +2,7 @@
 Proiect la Programare Avansata pe Obiecte, Anul 2, Sem 2
 
 
-# Afterschool
+## Obiecte
 (elev, activitate, profesor, clasa, orar)
 
 ## Actiuni / Interogari
